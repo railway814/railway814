@@ -2,6 +2,17 @@
 
 I'm a passionate **Web Developer** who loves building responsive, user-friendly, and performant websites and web applications. I enjoy turning ideas into real-world products and continuously learning new technologies to stay current in the ever-evolving web landscape.
 
+<details>
+<summary>My top languages</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
+
+</details>
+
 ---
 
 ### 🔭 I’m currently working on
